@@ -1,0 +1,19 @@
+{
+  "name": "react-app-3-backend",
+  "version": "1.0.0",
+  "description": "react-app-3-backend react-app-3-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
